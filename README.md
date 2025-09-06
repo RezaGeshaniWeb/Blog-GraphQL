@@ -1,12 +1,12 @@
 # Blog-GraphQL           
 
-[Online Demo]
+[Online Demo](https://blog-graph-ql-ebon.vercel.app/)
 
 - Developed by Reza Geshani                  
 
 - Created - 2025-09-03
 
-- Technologies Used - TailwindCSS , Axios , React , GraphQL , GraphQL CMS ( HyGraph )
+- Technologies Used - TailwindCSS , React , GraphQL , GraphQL CMS ( HyGraph )
 
 - Role - Frontend
 
