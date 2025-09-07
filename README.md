@@ -6,7 +6,7 @@
 
 - Created - 2025-09-06
 
-- Technologies Used - TailwindCSS , React , GraphQL , GraphQL CMS ( HyGraph )
+- Technologies Used - TailwindCSS , React , GraphQL , GraphQL CMS ( HyGraph )      
 
 - Role - Frontend
 
